@@ -13,10 +13,9 @@ class Solution {
            right--;
           
         }
-        for(int i=0;i<s.length;i++)
-        {
-            System.out.print("+s[i]+");
-        }
+        for (char ch : s) {
+    System.out.print(ch);
+}
         
     }
 }
