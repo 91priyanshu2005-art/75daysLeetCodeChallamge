@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
+| [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -63,5 +64,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
