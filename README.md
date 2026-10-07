@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 | [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
