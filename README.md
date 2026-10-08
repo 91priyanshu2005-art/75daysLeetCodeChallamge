@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
@@ -75,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
