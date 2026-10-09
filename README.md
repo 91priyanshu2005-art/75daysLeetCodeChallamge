@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -71,6 +73,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
