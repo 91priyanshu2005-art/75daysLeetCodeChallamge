@@ -30,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -88,4 +90,8 @@
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
