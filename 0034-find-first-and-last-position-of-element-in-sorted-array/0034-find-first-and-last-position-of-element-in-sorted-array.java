@@ -6,7 +6,7 @@ class Solution {
         int low = 0;
         int high = arr.length - 1;
 
-        while (low <= high) {
+        while (low <= high) {//first
             int mid = low + (high - low) / 2;
 
             if (arr[mid] == target) {
@@ -21,7 +21,7 @@ class Solution {
         low = 0;
         high = arr.length - 1;
 
-        while (low <= high) {
+        while (low <= high) {//last
             int mid = low + (high - low) / 2;
 
             if (arr[mid] == target) {
