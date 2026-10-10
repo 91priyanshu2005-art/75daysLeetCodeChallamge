@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0278-first-bad-version) |
