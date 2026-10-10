@@ -4,12 +4,12 @@ int low = 1;
 int high = num;
     while (low <= high) {
         int mid = low + (high - low) / 2;
-        long square = (long) mid * mid;
+        long sq = (long) mid * mid;
 
-        if (square == num) {
+        if (sq == num) {
             return true;
         } 
-        else if (square < num) {
+        else if (sq< num) {
             low = mid + 1;
         } 
         else {
