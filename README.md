@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
