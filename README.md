@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
@@ -111,4 +113,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
