@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
@@ -126,6 +127,11 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
