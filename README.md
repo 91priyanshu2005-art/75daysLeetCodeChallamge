@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1732-find-the-highest-altitude) |
