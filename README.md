@@ -31,6 +31,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,8 +136,13 @@
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
