@@ -27,6 +27,7 @@
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 ## Recursion
 |  |
@@ -153,4 +156,12 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
