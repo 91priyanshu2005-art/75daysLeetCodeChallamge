@@ -35,6 +35,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
