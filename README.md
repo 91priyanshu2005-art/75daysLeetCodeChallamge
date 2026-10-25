@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 ## Recursion
