@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
+| [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
+| [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 ## Matrix
 |  |
@@ -158,6 +161,7 @@
 | ------- |
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
+| [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0922-sort-array-by-parity-ii) |
 ## Prefix Sum
@@ -194,4 +198,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
