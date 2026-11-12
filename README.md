@@ -39,6 +39,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Recursion
 |  |
 | ------- |
