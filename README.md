@@ -29,6 +29,7 @@
 | [0704-binary-search](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -82,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -154,6 +156,7 @@
 | ------- |
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
