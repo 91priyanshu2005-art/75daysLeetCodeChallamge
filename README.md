@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +77,7 @@
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,4 +177,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
