@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
@@ -99,6 +100,7 @@
 | [0152-maximum-product-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
