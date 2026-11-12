@@ -40,6 +40,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0054-spiral-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0867-transpose-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Newton's Method
 |  |
 | ------- |
