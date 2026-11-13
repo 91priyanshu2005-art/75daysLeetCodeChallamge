@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -165,6 +167,7 @@
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0324-wiggle-sort-ii) |
 | [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0922-sort-array-by-parity-ii) |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 ## Queue
 |  |
@@ -211,4 +215,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
