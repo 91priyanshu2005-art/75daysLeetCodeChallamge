@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0374-guess-number-higher-or-lower) |
@@ -89,6 +91,7 @@
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
