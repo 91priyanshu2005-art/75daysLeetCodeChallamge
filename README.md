@@ -38,6 +38,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0922-sort-array-by-parity-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1480-running-sum-of-1d-array) |
 | [1537-get-the-maximum-score](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1537-get-the-maximum-score) |
 | [1572-matrix-diagonal-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1572-matrix-diagonal-sum) |
@@ -219,4 +220,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
