@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
@@ -71,6 +72,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0374-guess-number-higher-or-lower) |
@@ -179,6 +181,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0724-find-pivot-index) |
@@ -224,6 +227,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
