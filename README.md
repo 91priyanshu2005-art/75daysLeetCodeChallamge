@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0905-sort-array-by-parity) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0509-fibonacci-number) |
