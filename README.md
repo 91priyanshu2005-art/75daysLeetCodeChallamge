@@ -47,6 +47,7 @@
 | [1672-richest-customer-wealth](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2161-partition-array-according-to-given-pivot) |
