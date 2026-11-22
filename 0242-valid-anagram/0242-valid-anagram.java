@@ -15,7 +15,7 @@ class Solution {
     }
         for(int i=0;i<26;i++)
         {
-            if(freq[i]!=temp[i])
+            if(freq[i]!=temp[i])// this is the logic was not corrct by me 
             {
                 return false;
             }
