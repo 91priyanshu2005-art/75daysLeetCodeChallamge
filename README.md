@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0560-subarray-sum-equals-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -118,6 +119,7 @@
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1768-merge-strings-alternately) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0383-ransom-note) |
 | [1854-maximum-population-year](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/1854-maximum-population-year) |
 ## Queue
 |  |
