@@ -104,6 +104,7 @@
 | [0015-3sum](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0242-valid-anagram) |
@@ -288,4 +290,20 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/91priyanshu2005-art/75daysLeetCodeChallamge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
